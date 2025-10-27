@@ -89,3 +89,7 @@ npm run dev
 ## Deploy
 
 Deploy with any static host (Vercel, Netlify, GitHub Pages) or your preferred platform. Build with `npm run build` and serve the `dist/` directory.
+
+##online server link
+https://ai-credit-underwriting-system.onrender.com
+
